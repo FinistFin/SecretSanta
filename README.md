@@ -141,3 +141,15 @@ Secret Santa App - это Flutter-приложение, предназначен
 * Диаграмма 4(С информацие в бд мне нужна помощь, так как я не знаю полной организации компании, стоит ли указывать у сотрудников их отделы и тд?):
 
 * ![Fl2](https://github.com/FinistFin/SicretSanta/blob/main/%D0%91%D0%B0%D0%B7%D0%B0%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png)
+
+* Код модели Пользователи часть 1:
+
+* ![Fl2](https://github.com/FinistFin/SicretSanta/blob/main/User1.png)
+
+* Код модели Пользователи часть 2:
+
+* ![Fl2](https://github.com/FinistFin/SicretSanta/blob/main/User1.png)
+
+* Код модели Пользователи часть 2:
+
+* ![Fl2](https://github.com/FinistFin/SicretSanta/blob/main/User1.png)
