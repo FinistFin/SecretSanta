@@ -152,4 +152,4 @@ Secret Santa App - это Flutter-приложение, предназначен
 
 * Код модели Пользователи часть 2:
 
-* ![Fl2](https://github.com/FinistFin/SicretSanta/blob/main/User1.png)
+* ![Fl2](https://github.com/FinistFin/SicretSanta/blob/main/User3.png)
